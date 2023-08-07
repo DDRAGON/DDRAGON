@@ -1,16 +1,38 @@
-### Hi there 👋
+### 氏名
 
-<!--
-**DDRAGON/DDRAGON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+折原 ダビデ竜
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 学歴
+
+2013年3月 東京理科大学大学院　理工学研究科　情報科学専攻 人工知能研究室 卒業<br>
+2011年3月 東京理科大学 理工学部 情報科学科 卒業
+
+
+### 職歴
+
+2012年11月 株式会社ドワンゴ入社
+
+
+### 現在所属している学会
+
+一般社団法人 日本ディープラーニング協会(Japan Deep Learning Association)
+
+
+### 事項
+
+2021年 学校法人角川ドワンゴ学園にて、N中等部スクールプレジデントとして入学式と卒業式に貢献<br>
+2016年 ドワンゴが運営する教育サービスN予備校のて、プログラミング教育の制作と講義に貢献<br>
+2014年 ドワンゴ運営する配信サービス ニコニコ生放送の開発に貢献
+
+
+### 現在の職務の状況
+
+勤務先：株式会社ドワンゴ
+職名：エンジニア
+所属部局：教育事業本部
+勤務状況：会社員
+
+
+### 
+
